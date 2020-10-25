@@ -1,1 +1,1 @@
-# pratica_SCM
+# Prática de SCM com projeto JSH
